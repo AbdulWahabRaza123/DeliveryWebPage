@@ -1,0 +1,72 @@
+header {
+    position: sticky;
+}
+
+#header_img {
+    float: left;
+}
+
+h3 {
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: orangered;
+}
+
+.nav_link {
+    float: right;
+    margin-top: -50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#link1 {
+    margin: 50px;
+    text-decoration: none;
+    color: orangered;
+}
+
+#link2 {
+    margin: 50px;
+    text-decoration: none;
+    color: orangered;
+}
+
+#link3 {
+    margin: 50px;
+    text-decoration: none;
+    color: orangered;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 100px;
+    margin-left: 20%;
+}
+
+.search_bar {
+    margin-left: 20%;
+}
+
+#email {
+    width: 55%;
+    padding: 6px;
+    border: 5px orangered;
+    border-radius: 5px;
+}
+
+.button {
+    margin-left: 40%;
+}
+
+#submit {
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#submit:hover {
+    background-color: orangered;
+    padding: 5px;
+}

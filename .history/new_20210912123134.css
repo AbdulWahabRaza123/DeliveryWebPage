@@ -1,0 +1,10 @@
+#header_img {
+    float: left;
+}
+
+h3 {
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: orangered;
+}

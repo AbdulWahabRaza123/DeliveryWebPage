@@ -1,0 +1,27 @@
+#header_img {
+    float: left;
+}
+
+h3 {
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: orangered;
+}
+
+.nav_link {
+    float: right;
+    margin-top: -50px;
+}
+
+#link1 {
+    margin: 20px;
+}
+
+#link2 {
+    margin: 20px;
+}
+
+#link3 {
+    margin: 20px;
+}
